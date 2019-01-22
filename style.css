@@ -1,0 +1,75 @@
+body{
+    font-family: comic 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('images/bg-bar.jpg');
+    background-repeat: no-repeat;
+    background-size: 900 800px;
+
+}
+h1{
+    margin: 10px 0 5px;
+    color: white;
+    font-size: 20px;
+}
+h2{
+    color: white;
+    font-size: 10px;
+    margin: 0;
+}
+#c1Name, #c2Name{
+    font-weight: 900;
+    font-size: 25px;
+    color: black;
+}
+h3{
+    margin: 25px 30px;
+    color: brown;
+    text-align: justify;
+    text-align: center;
+}
+#start-button {
+    color: white;
+    background-color: black;
+    border-radius: 20%;
+    text-align: center;
+    width:100px;
+    height: 30px;
+    margin: 5px 0 15px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#cards-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.game-board{
+    width: 800px;
+    height: 800px;
+}
+.card{
+    width: 300px;
+    height: 450px;
+    margin: 50px;
+}
+.card-img{
+    width: 250px;
+    height: 200px;
+    margin: 25px;
+    border: 1px solid black;
+}
+#alert{
+    position: absolute;
+    top: 70px;
+    left: 240px;
+    width: 800px;
+    height: 110px;
+    font-size: 100px;
+    text-align: center;
+    text-justify: inter-word;
+
+}
