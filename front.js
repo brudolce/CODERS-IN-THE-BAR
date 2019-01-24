@@ -234,6 +234,6 @@ document.getElementsByTagName('button')[0].onclick = function() {
                 c1Front(game.count);
                 c2Back();
             };
-          },2500); 
+          },2501); 
     }
 }
