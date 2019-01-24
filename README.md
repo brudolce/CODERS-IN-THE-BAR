@@ -8,6 +8,7 @@ During the game you choose a card atribute to be compared to the A.I. card attri
 ## Getting Started
 You can play the game on the following link:
 https://brudolce.github.io/CODERS-IN-THE-BAR/
+
 If you want to download it, is is possible to download and unpack the zip file provided by github, on any folder of your choice. It is also possible to clone the folder with the following comand in terminal.
 
 > $git clone https://github.com/brudolce/CODERS-IN-THE-BAR.git
