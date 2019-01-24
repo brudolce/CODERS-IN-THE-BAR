@@ -8,10 +8,10 @@ During the game you choose a card atribute to be compared to the A.I. card attri
 ## Getting Started
 In order to run the game, it is possible to download the game, unpack the zip content on any forlder and run the game.html file. It is also possible to clone the folder with the following comand in terminal.
 
-> git clone https://github.com/brudolce/CODERS-IN-THE-BAR.git
+> $git clone https://github.com/brudolce/CODERS-IN-THE-BAR.git
 
 ## How to play
 Single click on Start button and the game starts. In order to choose an attribute, just click on the card attribute.
 
 ## Final considerations
-
+This game was developed in 8 hours using javascript.
