@@ -14,4 +14,4 @@ In order to run the game, it is possible to download the game, unpack the zip co
 Single click on Start button and the game starts. In order to choose an attribute, just click on the card attribute.
 
 ## Final considerations
-This game was developed in 8 hours using javascript.
+This game was developed in 8 hours using JavaScript.
