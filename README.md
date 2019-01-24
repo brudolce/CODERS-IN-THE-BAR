@@ -1,9 +1,16 @@
 # CODERS IN THE BAR
-Project 1 - Game
+TOP TRUMPS with a peculiar thematic.
 
-Coders in the bar is a game made in one day using JavaScript, HTML and CSS.
-The idea is to work as card game, played in turns, comparing cards attributes.
-The player chooses a comparing atribute after receiving a card, if the choosen attribute is bigger than the respective AI's card attribute, the round is won.
+##About the game
+Coders in the Bar is a card game based on TOP TRUMPS, popular game during the 70's and 80's.
+During the game you choose a card atribute to be compared to the A.I. card attribute. Who has biggest atribute wins the round. After 4 rounds the game ends, if the player have won 3 or more rounds, the game is won.
 
-After four rounds the game is finished and if at least 3 rounds were won, you win the game.
-Very similar to TOP TRUMPS, popular card game during the 70's and 80's.
+##Getting Started
+In order to run the game, it is possible to download the game, unpack the zip content on any forlder and run the game.html file. It is also possible to clone the folder with the following comand in terminal.
+> git clone https://github.com/brudolce/CODERS-IN-THE-BAR.git
+
+##How to play
+Single click on Start button and the game starts. In order to choose an attribute, just click on the card attribute.
+
+##Final considerations
+
