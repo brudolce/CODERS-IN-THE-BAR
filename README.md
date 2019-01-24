@@ -3,7 +3,7 @@ TOP TRUMPS with a peculiar thematic.
 
 ## About the game
 Coders in the Bar is a card game based on TOP TRUMPS, popular game during the 70's and 80's.
-During the game you choose a card atribute to be compared to the A.I. card attribute. Who has biggest atribute wins the round. After 4 rounds the game ends, if the player have won 3 or more rounds, the game is won.
+During the game you choose a card attribute to be compared to the A.I. card attribute. Who has biggest attribute wins the round. After 4 rounds the game ends, if the player have won 3 or more rounds, the game is won.
 
 ## Getting Started
 You can play the game on the following link:
