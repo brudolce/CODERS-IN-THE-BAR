@@ -164,7 +164,7 @@ document.getElementsByTagName('button')[0].onclick = function() {
                 c1Front(game.count);
                 c2Back();
             };
-        },2000);
+        },2500);
     };
 
     c1Code.onclick = function (){
@@ -199,7 +199,7 @@ document.getElementsByTagName('button')[0].onclick = function() {
                 c1Front(game.count);
                 c2Back();
             };
-          },2000); 
+          },2500); 
     }
 
     c1Yoga.onclick = function (){
@@ -234,6 +234,6 @@ document.getElementsByTagName('button')[0].onclick = function() {
                 c1Front(game.count);
                 c2Back();
             };
-          },2000); 
+          },2500); 
     }
 }
