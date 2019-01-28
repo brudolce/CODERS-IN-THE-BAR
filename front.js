@@ -1,4 +1,4 @@
-var cards = [
+let cards = [
     { name: 'ZECA', img: 'images/zeca.jpg',liver:5, code:0,yoga:1},
     { name: 'MATEUS', img:'images/mateus.jpg', liver:3, code:3, yoga:0},
     { name: 'RODRIGO', img: 'images/rodrigo.jpg', liver:0, code:4, yoga:2},
